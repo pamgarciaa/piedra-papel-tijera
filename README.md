@@ -1,9 +1,9 @@
-#🎮 **Piedra, Papel o Tijera (Rock, Paper, Scissors)*
+#🎮 *Piedra, Papel o Tijera (Rock, Paper, Scissors)*
 Este es un juego web clásico de Piedra, Papel o Tijera desarrollado con tecnologías web estándar. El juego cuenta con una interfaz oscura, diseño responsivo y efectos de sonido para una experiencia de usuario divertida.
 
 En esta versión, el juego funciona como una simulación de suerte: al presionar "Comenzar", el sistema elige aleatoriamente tanto la jugada del "Jugador" como la de la "PC".
 
-# ✨ **Características*
+# ✨ *Características*
 Diseño Responsivo: Se adapta a pantallas de escritorio, tablets y móviles.
 
 Animaciones: Efecto de "ruleta" visual mientras se decide el resultado.
@@ -27,7 +27,7 @@ Efectos de Sonido:
 
 - **JavaScript (ES6)*: Manipulación del DOM, manejo de eventos, lógica del juego y reproducción de audio.
 
-# 🔧 **Instalación y Uso*
+# 🔧 *Instalación y Uso*
 - Clonar o Descargar: Descarga los archivos de este repositorio en tu computadora.
 
 - Verificar Assets: Asegúrate de tener las imágenes y sonidos en la carpeta assets tal como se describe en la estructura del proyecto.
@@ -42,7 +42,7 @@ Efectos de Sonido:
 
 - El juego mostrará el resultado (Ganaste, Perdiste o Empate) junto con el sonido correspondiente.
 
-# **📸 Capturas de Pantalla*
+# *📸 Capturas de Pantalla*
 ![cover](./assets/img/juegopiedrapapeltijera.jpg)
 
 
