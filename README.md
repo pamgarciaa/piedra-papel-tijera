@@ -20,12 +20,12 @@ Efectos de Sonido:
 
 - **Estilo Visual*: Uso de la tipografía Lacquer de Google Fonts para un estilo desenfadado.
 
-# 🚀 **Tecnologías Utilizadas*
-- **HTML5*: Estructura semántica del contenido.
+# 🚀 *Tecnologías Utilizadas*
+- HTML5: Estructura semántica del contenido.
 
-- **CSS3*: Estilos personalizados, Flexbox, Grid Layout y Variables CSS (:root).
+- CSS3: Estilos personalizados, Flexbox, Grid Layout y Variables CSS (:root).
 
-- **JavaScript (ES6)*: Manipulación del DOM, manejo de eventos, lógica del juego y reproducción de audio.
+- JavaScript (ES6): Manipulación del DOM, manejo de eventos, lógica del juego y reproducción de audio.
 
 # 🔧 *Instalación y Uso*
 - Clonar o Descargar: Descarga los archivos de este repositorio en tu computadora.
