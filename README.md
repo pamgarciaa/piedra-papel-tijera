@@ -42,14 +42,7 @@ Efectos de Sonido:
 
 - El juego mostrará el resultado (Ganaste, Perdiste o Empate) junto con el sonido correspondiente.
 
-- #**📸 Capturas de Pantalla*
-(./assets/img/juegopiedrapapeltijera.jpg)
+# **📸 Capturas de Pantalla*
+![cover](./assets/img/juegopiedrapapeltijera.jpg)
 
-#📝** Reglas del Juego*
-La lógica implementada sigue las reglas universales:
 
-- 🪨 Piedra aplasta a ✂️ Tijera.
-
-- 📄 Papel envuelve a 🪨 Piedra.
-
-- ✂️ Tijera corta a 📄 Papel.
