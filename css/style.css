@@ -1,0 +1,90 @@
+:root{
+    --fuentep: "Lacquer", system-ui;
+}
+
+body{
+    background-color: #1f2835;
+}
+
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+}
+
+.titulo h1 {
+    font-family: var(--fuentep);
+    font-size: clamp(32px, 6vw, 60px);
+    font-weight: 600;
+}
+
+.juego h2{
+    font-family: var(--fuentep);
+    color: #ffffff;
+}
+
+.juego{
+    display: flex;
+    flex-wrap: wrap; 
+    flex-direction: row;
+    justify-content: center;
+    gap: 80px;
+    align-items: center;
+}
+
+.jugador, .pc, .vs{
+    display: grid;
+    place-items: center;
+}
+
+.vs{
+    margin-top: 60px;
+    font-family: var(--fuentep);
+    font-size: 15px; 
+    color: #ffffff;
+}
+
+.btn{
+    height: 35px;
+    width: 120px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    border: none;
+    font-family: "Lacquer", system-ui;
+    font-weight: 400;
+    font-size: 20px; 
+    color: #1f2835;
+}
+
+.imgs{
+    width: clamp(80px, 25vw, 120px);
+    border-radius: 20px;
+}
+
+.resultado{
+    margin-top: 30px;
+    font-family: var(--fuentep);
+    color: white;
+    font-size: clamp(20px, 4vw, 30px);
+}
+
+
+@media (max-width: 768px){
+    .juego{
+        gap: 40px;
+    }
+}
+
+@media (max-width: 600px){
+    .juego{
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 480px){
+    .btn{
+        width: 100px;
+        font-size: 16px;
+    }
+}
