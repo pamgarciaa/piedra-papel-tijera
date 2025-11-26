@@ -18,9 +18,9 @@ Efectos de Sonido:
 
 - 🔊 Sonidos distintos para Ganar, Perder o Empatar.
 
-- **Lógica de Juego*: Determinación automática del ganador basada en las reglas clásicas.
+- *Lógica de Juego*: Determinación automática del ganador basada en las reglas clásicas.
 
-- **Estilo Visual*: Uso de la tipografía Lacquer de Google Fonts para un estilo desenfadado.
+- *Estilo Visual*: Uso de la tipografía Lacquer de Google Fonts para un estilo desenfadado.
 
 # 🚀 *Tecnologías Utilizadas*
 - HTML5: Estructura semántica del contenido.
