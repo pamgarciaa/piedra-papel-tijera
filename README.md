@@ -1,4 +1,5 @@
 # 🎮 *Piedra, Papel o Tijera (Rock, Paper, Scissors)*
+[Link](https://pamgarciaa.github.io/piedra-papel-tijera/)
 Este es un juego web clásico de Piedra, Papel o Tijera desarrollado con tecnologías web estándar. El juego cuenta con una interfaz oscura, diseño responsivo y efectos de sonido para una experiencia de usuario divertida.
 
 En esta versión, el juego funciona como una simulación de suerte: al presionar "Comenzar", el sistema elige aleatoriamente tanto la jugada del "Jugador" como la de la "PC".
